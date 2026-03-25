@@ -86,7 +86,7 @@ public class BookMyStay {
         }
 
 
-        
+
         // IMPORTANT: No inventory update or booking allocation here
     }
 }
